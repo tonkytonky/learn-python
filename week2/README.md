@@ -11,7 +11,7 @@
 
 ## Возраст
 
-[if_age.py](if_age.py) | [Содержание](https://github.com/tonkytonky/learn_python/week2#Содержание)
+[if_age.py](if_age.py) | [Содержание](https://github.com/tonkytonky/learn_python/tree/master/week2#Содержание)
 
 Попросить пользователя ввести возраст.  
 По возрасту определить, чем он должен заниматься: учиться в детском саду, школе, ВУЗе или работать.  
@@ -20,7 +20,7 @@
 
 ## Сравнение строк
 
-[if_comparison.py](if_comparison.py) | [Содержание](https://github.com/tonkytonky/learn_python/week2#Содержание)
+[if_comparison.py](if_comparison.py) | [Содержание](https://github.com/tonkytonky/learn_python/tree/master/week2#Содержание)
 
 Написать функцию, которая принимает на вход две строки.  
 Если строки одинаковые, возвращает 1.  
